@@ -1,4 +1,4 @@
-package com.quadanalytix.testing;
+package org.quadanalytix.testing;
 
 import java.beans.IntrospectionException;
 import java.beans.Introspector;
